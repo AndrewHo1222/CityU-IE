@@ -1,2 +1,2 @@
-# ShittyU
-test exam database
+# Information Engineering
+Notes & Tutorials
